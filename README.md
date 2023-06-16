@@ -42,3 +42,6 @@ real time -> Inference on 30 fps videos
 To get a better understanding of the MVP, look at this image:
 
 <img src="img/concepts/Lacrosse_Object_Detection_Concept.png" width=800/>
+
+I'll create the dataset with [Roboflow](https://universe.roboflow.com/ryseai/lacrosse-object-detection).
+
