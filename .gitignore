@@ -1,3 +1,10 @@
+# Experiment specifcs
+data/*
+.vscode/*
+
+# Mac Specific
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
