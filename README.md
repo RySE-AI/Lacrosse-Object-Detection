@@ -46,7 +46,9 @@ To get a better understanding of the MVP, look at this image:
 I'll create the dataset with [Roboflow](https://universe.roboflow.com/ryseai/lacrosse-object-detection).
 
 Demo GIF Detection to get a short glimpse:
+
 ![Demo CountPages alpha](img/vids/demo_detection_short.gif)
+
 
 Disclaimer
 This project uses images and videos sourced from YouTube (loaded via roboflows UI). I do not claim ownership of any of the content used, and all rights and ownership remain with the original creators and copyright holders. This project is strictly intended for research purposes and is not for commercial use.
